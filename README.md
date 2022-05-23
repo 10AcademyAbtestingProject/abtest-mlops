@@ -1,4 +1,7 @@
 # smartAd-abtesting
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 - SmartAd is an advertisement company.
 - They Create Ads for client and charge based on user engagement.
@@ -32,5 +35,18 @@ First we will experiment with classical frequnetist techniques, and then we move
 ## Contributors
 
 ![Contributors list](https://contrib.rocks/image?repo=Hen0k/smartAd-abtesting)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Hen0k"><img src="https://avatars.githubusercontent.com/u/39389971?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HenokT</b></sub></a><br /><a href="#infra-Hen0k" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/10AcademyAbtestingProject/abtest-mlops/commits?author=Hen0k" title="Tests">⚠️</a> <a href="https://github.com/10AcademyAbtestingProject/abtest-mlops/commits?author=Hen0k" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Made with [contrib.rocks](https://contrib.rocks).
